@@ -8,6 +8,8 @@ lang: es
 
 
 
+
+
 ---
 
 El [Titanic](https://www.google.com/search?q=titanic&rlz=1C1ALOY_esCR978CR978&oq=titanic&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIHCAEQLhiABDIHCAIQLhiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQLhiABDIHCAkQABiABNIBCTQ3ODRqMGoxNagCCLACAfEF8wbSjTpuhy4&sourceid=chrome&ie=UTF-8) fue un transatlántico británico que se hundió en su viaje inaugural en 1912 después de chocar con un iceberg. La tragedia conmocionó al mundo debido al gran número de víctimas y a los errores cometidos durante el naufragio. El barco, considerado en su época como el más grande y lujoso, se hundió en el Atlántico Norte a una profundidad de aproximadamente **3,800 metros**, y sus restos fueron descubiertos en 1985. 
